@@ -1,0 +1,16 @@
+/*Estilos para el encabezado */
+header {
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    padding: 1rem;
+}
+
+/*Estilos para el párrafo */ 
+main {
+    margin: 20px;
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: justify;
+    color: blue;
+}
